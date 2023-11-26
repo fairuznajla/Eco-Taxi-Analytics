@@ -1,4 +1,4 @@
-# Deck Recommendation and Monitoring Dashboard for Eco-Friendly Online Taxi Company
+## Deck Recommendation and Monitoring Dashboard for Eco-Friendly Online Taxi Company
 
 #### This team project is the implementation of an Independent Study program at GreatEdu x MSIB Kampus Merdeka Batch 5 that focuses on Data Analytics. We created a recommendation deck and monitoring dashboard for an eco-friendly online taxi company using K-Means and Hierarchical clustering of CO2 emissions from various car brands. 
 
